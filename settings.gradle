@@ -1,0 +1,3 @@
+rootProject.name = 'querydsl'
+include ':springboot3:application',
+        ':springboot3:domain-h2'

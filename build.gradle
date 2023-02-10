@@ -1,0 +1,6 @@
+buildscript {
+    ext {
+        queryDslVersion = "5.0.0:jakarta"
+        p6spyVersion = "1.9.0"
+    }
+}
